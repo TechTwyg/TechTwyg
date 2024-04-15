@@ -14,7 +14,8 @@ I'm a passionate software engineer with a love for all aspects of the tech world
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/TechTwyg/Portfolio): Portfolio Website
+- [Portfolio Website](https://github.com/TechTwyg/Portfolio)
+- [Three JS Website](https://github.com/TechTwyg/ThreeJS-Website)
 
 
 ## Contact Me
