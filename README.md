@@ -25,11 +25,6 @@ Feel free to reach out to me via:
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/stanley-dix-8490a2255/)
 
 
-## GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TechTwyg)](https://github.com/TechTwyg)
-
-
 ## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechTwyg&layout=compact)](https://github.com/TechTwyg)
