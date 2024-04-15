@@ -14,7 +14,7 @@ I'm a passionate software engineer with a love for all aspects of the tech world
 
 Here are some of the projects I've worked on:
 
-- [Project 1](link-to-project-1): [Brief description of Project 1]
+- [Project 1](https://github.com/TechTwyg/Portfolio): Portfolio Website
 
 
 ## Contact Me
@@ -22,10 +22,6 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me via:
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/stanley-dix-8490a2255/)
-
-## GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username)](https://github.com/your-github-username)
 
 ## Top Languages
 
