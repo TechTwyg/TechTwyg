@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out to me via:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/stanley-dix-8490a2255/)
+- LinkedIn: [Stan](https://www.linkedin.com/in/stanley-dix-8490a2255/)
 
 
 ## Top Languages
